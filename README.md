@@ -27,8 +27,7 @@ Landing page semántica, responsive y modular desarrollada con **HTML5 y CSS3 Pu
 TALLER_DESARROLLO_B1/
 ├── index.html            # Estructura semántica HTML5
 ├── variables.css         # Custom Properties (:root) / Design Tokens
-├── styles.css            # Estilos globales, Mobile-First, Grid & Flexbox
-└── DEFENSA_PROYECTO.md   # Guía de defensa con preguntas y respuestas
+└── styles.css            # Estilos globales, Mobile-First, Grid & Flexbox
 ```
 
 ---
