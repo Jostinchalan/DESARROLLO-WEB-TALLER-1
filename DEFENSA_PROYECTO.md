@@ -1,5 +1,5 @@
 # Guía de Defensa Rápida (Preguntas Orientadoras)
-## Proyecto: Landing Page "Asistencia Técnica" (Arquitectura CSS Modular)
+## Proyecto: Landing Page "Asistencia Técnica" (100% HTML5 & CSS3)
 
 Aquí tienes la respuesta exacta y directa para defender tu proyecto frente al docente:
 
