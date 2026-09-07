@@ -1,0 +1,28 @@
+:root {
+  --color-primario: #1e40af;
+  --color-primario-hover: #1e3a8a;
+  --color-secundario: #2563eb;
+  --color-fondo: #ffffff;
+  --color-superficie: #f8fafc;
+  --color-tarjeta: #ffffff;
+  --color-texto: #0f172a;
+  --color-texto-secundario: #475569;
+  --color-borde: #e2e8f0;
+  --color-borde-hover: #cbd5e1;
+
+  --fuente-principal: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --fuente-tamano-base: 1rem;
+  --fuente-tamano-subtitulo: 1.15rem;
+  --fuente-tamano-titulo: 2.2rem;
+
+  --espacio-sm: 0.5rem;
+  --espacio-md: 1rem;
+  --espacio-lg: 2rem;
+  --espacio-xl: 3.5rem;
+
+  --borde-radio: 8px;
+  --sombra-suave: 0 4px 12px rgba(0, 0, 0, 0.05);
+  --sombra-tarjeta: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  --sombra-hover: 0 10px 20px -3px rgba(30, 64, 175, 0.12);
+  --transicion: all 0.2s ease-in-out;
+}
